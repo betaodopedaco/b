@@ -1,0 +1,876 @@
+html isolado 
+<!DOCTYPE html>
+<!-- This site was created in Webflow. https://webflow.com -->
+<!-- Last Published: Wed Jul 09 2025 20:27:54 GMT+0000 (Coordinated Universal Time) -->
+<html data-wf-domain="portfolio-4d840c.webflow.io" data-wf-page="686ecf8608292f99cc67dbbe" data-wf-site="686ecf8608292f99cc67db9b" data-wf-status="1">
+  <head>
+    <meta charset="utf-8" />
+    <title>portfolio</title>
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <meta content="Webflow" name="generator" />
+    <link href="https://cdn.prod.website-files.com/686ecf8608292f99cc67db9b/css/portfolio-4d840c.webflow.shared.03c60a934.css" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com" rel="preconnect" />
+    <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous" />
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      WebFont.load({
+        google: {
+          families: ["Inter:regular", "Syne:regular"]
+        }
+      });
+    </script>
+    <script type="text/javascript">
+      ! function(o, c) {
+        var n = c.documentElement,
+          t = " w-mod-";
+        n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
+      }(window, document);
+    </script>
+    <link href="https://cdn.prod.website-files.com/img/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="https://cdn.prod.website-files.com/img/webclip.png" rel="apple-touch-icon" />
+  </head>
+  <body>
+    <div class="nav is-accent-primary">
+      <div data-duration="400" data-animation="default" data-easing2="ease" data-easing="ease" data-collapse="medium" role="banner" data-no-scroll="1" class="nav_container w-nav">
+        <div class="nav_left">
+          <a href="#" class="nav_logo w-inline-block">
+            <div class="nav_logo-icon">
+              <svg width="100%" height="100%" viewBox="0 0 33 33" preserveAspectRatio="xMidYMid meet">
+                <path d="M28,0H5C2.24,0,0,2.24,0,5v23c0,2.76,2.24,5,5,5h23c2.76,0,5-2.24,5-5V5c0-2.76-2.24-5-5-5ZM29,17c-6.63,0-12,5.37-12,12h-1c0-6.63-5.37-12-12-12v-1c6.63,0,12-5.37,12-12h1c0,6.63,5.37,12,12,12v1Z" fill="currentColor"></path>
+              </svg>
+            </div>
+            <div class="paragraph_large margin-bottom_none"></div
+          </a>
+        </div>
+        <div class="nav_right">
+          <nav role="navigation" class="nav_menu w-nav-menu">
+            <ul role="list" class="nav_menu-list w-list-unstyled">
+              <li class="nav_menu-list-item">
+                <div data-delay="0" data-hover="false" class="nav_dropdown-menu w-dropdown">
+                  <div class="nav_link on-accent-primary w-dropdown-toggle">
+                    <div>Projetos</div>
+                    <div class="nav-caret w-icon-dropdown-toggle"></div>
+                  </div>
+                  <nav class="mega-nav_dropdown-list w-dropdown-list">
+                    <div class="mega-nav_dropdown-list-wrapper">
+                      <ul role="list" class="grid_3-col tablet-1-col gap-medium margin-bottom_none w-list-unstyled">
+                        <li id="w-node-_016f5a0a-5b63-edde-82c5-e2b2ad6d2e6d-ad6d2e56" class="w-node-c5bc1453-4224-ff0f-daf8-125d4d8fecd2-4d8fecbd">
+                          <div class="w-layout-grid grid_3-col tablet-1-col gap-small">
+                            <div>
+                              <div class="eyebrow">3D imersivo</div>
+                              <ul role="list" class="mega-nav_list w-list-unstyled">
+                                <li class="margin-bottom_none">
+                                  <a href="#" class="mega-nav_link-item w-inline-block">
+                                    <div class="icon_medium">
+                                      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 32 32" fill="currentColor">
+                                        <path d="m25.7 9.3l-7-7A.9.9 0 0 0 18 2H8a2.006 2.006 0 0 0-2 2v24a2.006 2.006 0 0 0 2 2h16a2.006 2.006 0 0 0 2-2V10a.9.9 0 0 0-.3-.7M18 4.4l5.6 5.6H18ZM24 28H8V4h8v6a2.006 2.006 0 0 0 2 2h6Z" stroke-linejoin="round"></path>
+                                      </svg>
+                                    </div>
+                                    <div id="w-node-_016f5a0a-5b63-edde-82c5-e2b2ad6d2e78-ad6d2e56" class="w-node-c5bc1453-4224-ff0f-daf8-125d4d8fecdd-4d8fecbd">
+                                      <div>
+                                        <strong>Portfólio interativo</strong>
+                                      </div>
+                                      <div class="paragraph_small text-color_secondary">Experimente projetos de alto impacto.</div>
+                                    </div>
+                                  </a>
+                                </li>
+                                <li class="margin-bottom_none">
+                                  <a href="#" class="mega-nav_link-item w-inline-block">
+                                    <div class="icon_medium">
+                                      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 32 32" fill="currentColor">
+                                        <path d="m25.7 9.3l-7-7A.9.9 0 0 0 18 2H8a2.006 2.006 0 0 0-2 2v24a2.006 2.006 0 0 0 2 2h16a2.006 2.006 0 0 0 2-2V10a.9.9 0 0 0-.3-.7M18 4.4l5.6 5.6H18ZM24 28H8V4h8v6a2.006 2.006 0 0 0 2 2h6Z" stroke-linejoin="round"></path>
+                                      </svg>
+                                    </div>
+                                    <div id="w-node-_016f5a0a-5b63-edde-82c5-e2b2ad6d2e83-ad6d2e56" class="w-node-c5bc1453-4224-ff0f-daf8-125d4d8fecea-4d8fecbd">
+                                      <div>
+                                        <strong>Design imersivo</strong>
+                                      </div>
+                                      <div class="paragraph_small text-color_secondary">Visual premium, experiência marcante.</div>
+                                    </div>
+                                  </a>
+                                </li>
+                                <li class="margin-bottom_none">
+                                  <a href="#" class="mega-nav_link-item w-inline-block">
+                                    <div class="icon_medium">
+                                      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 32 32" fill="currentColor">
+                                        <path d="m25.7 9.3l-7-7A.9.9 0 0 0 18 2H8a2.006 2.006 0 0 0-2 2v24a2.006 2.006 0 0 0 2 2h16a2.006 2.006 0 0 0 2-2V10a.9.9 0 0 0-.3-.7M18 4.4l5.6 5.6H18ZM24 28H8V4h8v6a2.006 2.006 0 0 0 2 2h6Z" stroke-linejoin="round"></path>
+                                      </svg>
+                                    </div>
+                                    <div id="w-node-_016f5a0a-5b63-edde-82c5-e2b2ad6d2e8e-ad6d2e56" class="w-node-c5bc1453-4224-ff0f-daf8-125d4d8fecf7-4d8fecbd">
+                                      <div>
+                                        <strong>UX/UI avançado</strong>
+                                      </div>
+                                      <div class="paragraph_small text-color_secondary">Navegação fluida, resultado real.</div>
+                                    </div>
+                                  </a>
+                                </li>
+                              </ul>
+                            </div>
+                            <div>
+                              <div class="eyebrow">Soluções</div>
+                              <ul role="list" class="mega-nav_list w-list-unstyled">
+                                <li class="margin-bottom_none">
+                                  <a href="#" class="mega-nav_link-item w-inline-block">
+                                    <div class="icon_medium">
+                                      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 32 32" fill="currentColor">
+                                        <path d="m25.7 9.3l-7-7A.9.9 0 0 0 18 2H8a2.006 2.006 0 0 0-2 2v24a2.006 2.006 0 0 0 2 2h16a2.006 2.006 0 0 0 2-2V10a.9.9 0 0 0-.3-.7M18 4.4l5.6 5.6H18ZM24 28H8V4h8v6a2.006 2.006 0 0 0 2 2h6Z" stroke-linejoin="round"></path>
+                                      </svg>
+                                    </div>
+                                    <div id="w-node-_016f5a0a-5b63-edde-82c5-e2b2ad6d2e9d-ad6d2e56" class="w-node-c5bc1453-4224-ff0f-daf8-125d4d8fed0e-4d8fecbd">
+                                      <div>
+                                        <strong>Consultoria criativa</strong>
+                                      </div>
+                                      <div class="paragraph_small text-color_secondary">Estratégia que transforma negócios.</div>
+                                    </div>
+                                  </a>
+                                </li>
+                                <li class="margin-bottom_none">
+                                  <a href="#" class="mega-nav_link-item w-inline-block">
+                                    <div class="icon_medium">
+                                      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 32 32" fill="currentColor">
+                                        <path d="m25.7 9.3l-7-7A.9.9 0 0 0 18 2H8a2.006 2.006 0 0 0-2 2v24a2.006 2.006 0 0 0 2 2h16a2.006 2.006 0 0 0 2-2V10a.9.9 0 0 0-.3-.7M18 4.4l5.6 5.6H18ZM24 28H8V4h8v6a2.006 2.006 0 0 0 2 2h6Z" stroke-linejoin="round"></path>
+                                      </svg>
+                                    </div>
+                                    <div id="w-node-_016f5a0a-5b63-edde-82c5-e2b2ad6d2ea8-ad6d2e56" class="w-node-c5bc1453-4224-ff0f-daf8-125d4d8fed1d-4d8fecbd">
+                                      <div>
+                                        <strong>Desenvolvimento web</strong>
+                                      </div>
+                                      <div class="paragraph_small text-color_secondary">Sites rápidos, modernos e responsivos.</div>
+                                    </div>
+                                  </a>
+                                </li>
+                                <li class="margin-bottom_none">
+                                  <a href="#" class="mega-nav_link-item w-inline-block">
+                                    <div class="icon_medium">
+                                      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 32 32" fill="currentColor">
+                                        <path d="m25.7 9.3l-7-7A.9.9 0 0 0 18 2H8a2.006 2.006 0 0 0-2 2v24a2.006 2.006 0 0 0 2 2h16a2.006 2.006 0 0 0 2-2V10a.9.9 0 0 0-.3-.7M18 4.4l5.6 5.6H18ZM24 28H8V4h8v6a2.006 2.006 0 0 0 2 2h6Z" stroke-linejoin="round"></path>
+                                      </svg>
+                                    </div>
+                                    <div id="w-node-_016f5a0a-5b63-edde-82c5-e2b2ad6d2eb3-ad6d2e56" class="w-node-c5bc1453-4224-ff0f-daf8-125d4d8fed2a-4d8fecbd">
+                                      <div>
+                                        <strong>Animações 3D</strong>
+                                      </div>
+                                      <div class="paragraph_small text-color_secondary">Movimento que encanta e engaja.</div>
+                                    </div>
+                                  </a>
+                                </li>
+                              </ul>
+                            </div>
+                            <div>
+                              <div class="eyebrow">Diferenciais</div>
+                              <ul role="list" class="mega-nav_list w-list-unstyled">
+                                <li class="margin-bottom_none">
+                                  <a href="#" class="mega-nav_link-item w-inline-block">
+                                    <div class="icon_medium">
+                                      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 32 32" fill="currentColor">
+                                        <path d="m25.7 9.3l-7-7A.9.9 0 0 0 18 2H8a2.006 2.006 0 0 0-2 2v24a2.006 2.006 0 0 0 2 2h16a2.006 2.006 0 0 0 2-2V10a.9.9 0 0 0-.3-.7M18 4.4l5.6 5.6H18ZM24 28H8V4h8v6a2.006 2.006 0 0 0 2 2h6Z" stroke-linejoin="round"></path>
+                                      </svg>
+                                    </div>
+                                    <div id="w-node-_016f5a0a-5b63-edde-82c5-e2b2ad6d2ec2-ad6d2e56" class="w-node-c5bc1453-4224-ff0f-daf8-125d4d8fed3c-4d8fecbd">
+                                      <div>
+                                        <strong>Performance impecável</strong>
+                                      </div>
+                                      <div class="paragraph_small text-color_secondary">Velocidade e fluidez excepcionais.</div>
+                                    </div>
+                                  </a>
+                                </li>
+                                <li class="margin-bottom_none">
+                                  <a href="#" class="mega-nav_link-item w-inline-block">
+                                    <div class="icon_medium">
+                                      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 32 32" fill="currentColor">
+                                        <path d="m25.7 9.3l-7-7A.9.9 0 0 0 18 2H8a2.006 2.006 0 0 0-2 2v24a2.006 2.006 0 0 0 2 2h16a2.006 2.006 0 0 0 2-2V10a.9.9 0 0 0-.3-.7M18 4.4l5.6 5.6H18ZM24 28H8V4h8v6a2.006 2.006 0 0 0 2 2h6Z" stroke-linejoin="round"></path>
+                                      </svg>
+                                    </div>
+                                    <div id="w-node-_016f5a0a-5b63-edde-82c5-e2b2ad6d2ecd-ad6d2e56" class="w-node-c5bc1453-4224-ff0f-daf8-125d4d8fed49-4d8fecbd">
+                                      <div>
+                                        <strong>Mobile-first</strong>
+                                      </div>
+                                      <div class="paragraph_small text-color_secondary">Perfeito em qualquer dispositivo.</div>
+                                    </div>
+                                  </a>
+                                </li>
+                                <li class="margin-bottom_none">
+                                  <a href="#" class="mega-nav_link-item w-inline-block">
+                                    <div class="icon_medium">
+                                      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 32 32" fill="currentColor">
+                                        <path d="m25.7 9.3l-7-7A.9.9 0 0 0 18 2H8a2.006 2.006 0 0 0-2 2v24a2.006 2.006 0 0 0 2 2h16a2.006 2.006 0 0 0 2-2V10a.9.9 0 0 0-.3-.7M18 4.4l5.6 5.6H18ZM24 28H8V4h8v6a2.006 2.006 0 0 0 2 2h6Z" stroke-linejoin="round"></path>
+                                      </svg>
+                                    </div>
+                                    <div id="w-node-_016f5a0a-5b63-edde-82c5-e2b2ad6d2ed8-ad6d2e56" class="w-node-c5bc1453-4224-ff0f-daf8-125d4d8fed54-4d8fecbd">
+                                      <div>
+                                        <strong>Storytelling autêntico</strong>
+                                      </div>
+                                      <div class="paragraph_small text-color_secondary">Histórias que inspiram e conectam.</div>
+                                    </div>
+                                  </a>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                        </li>
+                        <li id="w-node-_016f5a0a-5b63-edde-82c5-e2b2ad6d2ede-ad6d2e56" class="flex_horizontal w-node-c5bc1453-4224-ff0f-daf8-125d4d8fed5e-4d8fecbd">
+                          <a href="#" class="card-link is-inverse flex-child_expand w-inline-block">
+                            <div class="card_body">
+                              <div class="heading_h3">Impressione com 3D interativo</div>
+                              <p class="paragraph_small text-color_inverse-secondary">Descubra como experiências 3D elevam sua marca e atraem clientes ideais.</p>
+                              <div class="margin_top-auto">
+                                <div class="button-group">
+                                  <div class="text-button is-secondary on-accent-primary">
+                                    <div>Explorar</div>
+                                    <div class="button_icon">
+                                      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 16 16" fill="none">
+                                        <path d="M2 8H14.5M14.5 8L8.5 2M14.5 8L8.5 14" stroke="currentColor" stroke-width="2" stroke-linejoin="round"></path>
+                                      </svg>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </nav>
+                </div>
+              </li>
+              <li class="nav_menu-list-item">
+                <a href="#" class="nav_link on-accent-primary w-inline-block">
+                  <div>Sobre</div>
+                </a>
+              </li>
+              <li class="nav_menu-list-item">
+                <a href="#" class="nav_link on-accent-primary w-inline-block">
+                  <div>Blog</div>
+                </a>
+              </li>
+              <li class="nav_menu-list-item">
+                <div data-delay="0" data-hover="false" class="nav_dropdown-menu w-dropdown">
+                  <div class="nav_link on-accent-primary w-dropdown-toggle">
+                    <div>Ajuda</div>
+                    <div class="nav-caret w-icon-dropdown-toggle"></div>
+                  </div>
+                  <div class="nav_dropdown-list w-dropdown-list">
+                    <div class="nav-menu_dropdown-list-wrapper">
+                      <ul role="list" class="flex_vertical margin-bottom_none w-list-unstyled">
+                        <li class="margin-bottom_none">
+                          <a href="#" class="nav_dropdown-link w-inline-block">
+                            <div class="button_label">Suporte</div>
+                          </a>
+                        </li>
+                        <li class="margin-bottom_none">
+                          <a href="#" class="nav_dropdown-link w-inline-block">
+                            <div class="button_label">Contato</div>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </nav>
+          <div class="button-group margin-top_none">
+            <a href="#" class="button on-accent-primary w-inline-block">
+              <div class="button_label">Projetos</div>
+            </a>
+          </div>
+        </div>
+        <div class="nav_mobile-menu-button w-nav-button">
+          <div class="icon on-accent-primary">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+              <g class="nc-icon-wrapper" stroke-linecap="square" stroke-linejoin="miter" stroke-width="1.5" fill="none" stroke="currentColor" stroke-miterlimit="10">
+                <line x1="1" y1="12" x2="23" y2="12" stroke="currentColor"></line>
+                <line x1="1" y1="5" x2="23" y2="5"></line>
+                <line x1="1" y1="19" x2="23" y2="19"></line>
+              </g>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+    <header class="section padding_none is-accent-primary">
+      <div class="grid_1-col min-height_100dvh padding-top_xxlarge padding-bottom_medium">
+        <div class="container is-max flex_horizontal flex_vertical">
+          <div id="w-node-e7e2a327-4de4-fd63-041d-6dbbf4935835-e04e0b1d" class="ix_hero-intro-clip-mask is-element-2-hero-intro-clip-mask w-node-_2693a43b-6ced-3b0f-6afb-9dce0c23996b-cc67dbbe">
+            <h1 class="heading-responsive_large text_all-caps margin-bottom_none">Impacto 3D. Resultados extraordinários.</h1>
+          </div>
+          <div id="w-node-e7e2a327-4de4-fd63-041d-6dbbf4935838-e04e0b1d" class="grid_2-col flex-child_expand w-node-_2693a43b-6ced-3b0f-6afb-9dce0c239975-cc67dbbe">
+            <div id="w-node-e7e2a327-4de4-fd63-041d-6dbbf4935839-e04e0b1d" class="ix_hero-intro-clip-mask is-element-1-hero-intro-clip-mask z-index_2 w-node-_2693a43b-6ced-3b0f-6afb-9dce0c239971-cc67dbbe">
+              <div class="max-width_small">
+                <p class="subheading">Design de alto padrão, navegação intuitiva e experiências 3D que elevam marcas. Descubra como transformar ideias em resultados reais e memoráveis.</p>
+                <a href="#" class="button on-accent-primary w-button">Ver projetos</a>
+              </div>
+            </div>
+            <div id="w-node-e7e2a327-4de4-fd63-041d-6dbbf493583f-e04e0b1d" class="ix_hero-intro-clip-mask is-element-3-hero-intro-clip-mask w-node-_2693a43b-6ced-3b0f-6afb-9dce0c239974-cc67dbbe">
+              <img width="520" height="356" alt="image of custom architectural solutions" src="https://cdn.prod.website-files.com/686ecf8608292f99cc67db9b/686ecfecad362b9fd1a47991_512e7523-1198-40e9-9b39-8862f12b3755.avif" loading="lazy" data-aisg-image-id="0484a64d-68fd-4465-8091-b18f5af4ab4a" class="image_cover" />
+              <div class="mask_left display_block_tablet"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <section class="section">
+      <div id="w-node-_10b0e8b6-8a30-4d11-5b3b-3df793acc34f-93acc34e" class="container w-node-_7505625a-cf31-a0ce-c182-552355ca619b-cc67dbbe">
+        <div class="w-layout-grid grid_1-col">
+          <div class="w-layout-grid grid_2-col gap-small">
+            <div id="w-node-_10b0e8b6-8a30-4d11-5b3b-3df793acc352-93acc34e" class="ix_card-rotate-left w-node-_7505625a-cf31-a0ce-c182-552355ca613a-cc67dbbe">
+              <div class="card card_body">
+                <div class="w-layout-grid grid_1-col gap-medium ratio_16x9">
+                  <div class="is-xlarge-1x1">
+                    <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none">
+                      <path d="M9.24998 18.7103C6.60958 17.6271 4.75 15.0307 4.75 12C4.75 8.96938 6.60958 6.37304 9.24997 5.28979" stroke-width="1.5" stroke-linejoin="round" stroke="currentColor"></path>
+                      <path d="M14.75 5.28979C17.3904 6.37303 19.25 8.96938 19.25 12.0001C19.25 15.0307 17.3904 17.6271 14.75 18.7103" stroke-width="1.5" stroke-linejoin="round" stroke="currentColor"></path>
+                      <path d="M4 19.2501L8.99998 19.2501C9.13805 19.2501 9.24998 19.1381 9.24998 19.0001L9.24997 14" stroke-width="1.5" stroke-linejoin="round" stroke="currentColor"></path>
+                      <path d="M20 4.75L15 4.75003C14.8619 4.75003 14.75 4.86196 14.75 5.00003L14.75 10.0001" stroke-width="1.5" stroke-linejoin="round" stroke="currentColor"></path>
+                    </svg>
+                  </div>
+                  <div id="w-node-_10b0e8b6-8a30-4d11-5b3b-3df793acc35b-93acc34e" class="max-width_xsmall w-node-_7505625a-cf31-a0ce-c182-552355ca6137-cc67dbbe">
+                    <div class="paragraph_large text_all-caps">Imersão 3D que conquista</div>
+                    <p class="paragraph_small text-color_secondary">Mergulhe em experiências interativas que unem design sofisticado, performance impecável e navegação intuitiva. Cada detalhe é pensado para encantar e gerar resultados reais para você.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div id="w-node-_10b0e8b6-8a30-4d11-5b3b-3df793acc360-93acc34e" data-w-id="7505625a-cf31-a0ce-c182-552355ca6152" class="ix_card-rotate-right w-node-_7505625a-cf31-a0ce-c182-552355ca6152-cc67dbbe">
+              <div class="card card_body">
+                <div class="w-layout-grid grid_1-col gap-medium ratio_16x9">
+                  <div class="is-xlarge-1x1">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none">
+                      <path d="M12.5 18.25C16.2279 18.25 19.25 15.2279 19.25 11.5C19.25 7.77208 16.2279 4.75 12.5 4.75C8.77208 4.75 5.75 7.77208 5.75 11.5C5.75 12.6007 6.01345 13.6398 6.48072 14.5578L5 19L9.71819 17.6519C10.5664 18.0361 11.5082 18.25 12.5 18.25Z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"></path>
+                    </svg>
+                  </div>
+                  <div id="w-node-_10b0e8b6-8a30-4d11-5b3b-3df793acc366-93acc34e" class="max-width_xsmall w-node-_7505625a-cf31-a0ce-c182-552355ca614f-cc67dbbe">
+                    <div class="paragraph_large text_all-caps">Design de alto padrão, resultados reais</div>
+                    <p class="paragraph_small text-color_secondary">Soluções visuais inovadoras que elevam sua marca e criam conexões memoráveis. Cada projeto é feito para impressionar e agregar valor ao seu negócio.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div id="w-node-_10b0e8b6-8a30-4d11-5b3b-3df793acc36b-93acc34e" data-w-id="7505625a-cf31-a0ce-c182-552355ca6169" class="ix_card-rotate-left w-node-_7505625a-cf31-a0ce-c182-552355ca6169-cc67dbbe">
+              <div class="card card_body">
+                <div class="w-layout-grid grid_1-col gap-medium ratio_16x9">
+                  <div class="is-xlarge-1x1">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none">
+                      <path d="M5.25 6.75H18.75V17.25H5.25V6.75Z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"></path>
+                      <path d="M5.25 6.75L12 12L18.75 6.75" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"></path>
+                    </svg>
+                  </div>
+                  <div id="w-node-_10b0e8b6-8a30-4d11-5b3b-3df793acc372-93acc34e" class="max-width_xsmall w-node-_7505625a-cf31-a0ce-c182-552355ca6166-cc67dbbe">
+                    <div class="paragraph_large text_all-caps">Performance sem limites visuais</div>
+                    <p class="paragraph_small text-color_secondary">Animações suaves, carregamento instantâneo e responsividade total. Seu site sempre impecável, em qualquer dispositivo, sem abrir mão da experiência imersiva.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div id="w-node-_10b0e8b6-8a30-4d11-5b3b-3df793acc377-93acc34e" data-w-id="7505625a-cf31-a0ce-c182-552355ca617a" class="ix_card-rotate-right w-node-_7505625a-cf31-a0ce-c182-552355ca617a-cc67dbbe">
+              <div class="card card_body">
+                <div class="w-layout-grid grid_1-col gap-medium ratio_16x9">
+                  <div class="is-xlarge-1x1">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none">
+                      <path d="M19.25 12C19.25 16.0041 16.0041 19.25 12 19.25C7.99594 19.25 4.75 16.0041 4.75 12C4.75 7.99594 7.99594 4.75 12 4.75C16.0041 4.75 19.25 7.99594 19.25 12Z" stroke="currentColor" stroke-width="1.5"></path>
+                      <path d="M9 12L11 14L15.5 9.5" stroke="currentColor" stroke-width="1.5"></path>
+                    </svg>
+                  </div>
+                  <div id="w-node-_10b0e8b6-8a30-4d11-5b3b-3df793acc37e-93acc34e" class="max-width_xsmall w-node-_7505625a-cf31-a0ce-c182-552355ca6177-cc67dbbe">
+                    <div class="paragraph_large text_all-caps">Impacto total em qualquer tela</div>
+                    <p class="paragraph_small text-color_secondary">Experiência 3D otimizada para todos os dispositivos. Navegação fluida e visual marcante, do desktop ao smartphone.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div id="w-node-_10b0e8b6-8a30-4d11-5b3b-3df793acc383-93acc34e" class="ix_card-rotate-left w-node-_7505625a-cf31-a0ce-c182-552355ca6187-cc67dbbe">
+              <div class="card card_body">
+                <div class="w-layout-grid grid_1-col gap-medium ratio_16x9">
+                  <div class="is-xlarge-1x1">
+                    <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none">
+                      <path d="M17.3654 5.32894C17.8831 5.54543 18.3534 5.86273 18.7495 6.26274C19.146 6.6625 19.4604 7.13723 19.675 7.65978C19.8895 8.18233 20 8.74246 20 9.30814C20 9.87384 19.8895 10.4339 19.675 10.9565C19.4604 11.4791 19.146 11.9538 18.7495 12.3535L12.0001 19L5.2496 12.3535C4.44951 11.5457 4 10.4501 4 9.3076C4 8.16516 4.44951 7.0695 5.2496 6.26166C6.04975 5.45384 7.13498 5 8.26647 5C9.39804 5 10.4833 5.45384 11.2833 6.26166L12.016 6.99843L12.7158 6.26274C13.112 5.86273 13.5823 5.54543 14.0999 5.32894C14.6176 5.11246 15.1724 5.00103 15.7327 5.00103C16.2929 5.00103 16.8478 5.11246 17.3654 5.32894Z" stroke-width="1.5" stroke-linejoin="round" stroke="currentColor"></path>
+                    </svg>
+                  </div>
+                  <div id="w-node-_10b0e8b6-8a30-4d11-5b3b-3df793acc389-93acc34e" class="max-width_xsmall w-node-_7505625a-cf31-a0ce-c182-552355ca6184-cc67dbbe">
+                    <div class="paragraph_large text_all-caps">Valor em cada detalhe visual</div>
+                    <p class="paragraph_small text-color_secondary">Projetos criados para resolver desafios reais, aumentar engajamento e impulsionar resultados. Seu sucesso é o foco de cada entrega.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div id="w-node-_10b0e8b6-8a30-4d11-5b3b-3df793acc38e-93acc34e" data-w-id="7505625a-cf31-a0ce-c182-552355ca6198" class="ix_card-rotate-right w-node-_7505625a-cf31-a0ce-c182-552355ca6198-cc67dbbe">
+              <div class="card card_body">
+                <div class="w-layout-grid grid_1-col gap-medium ratio_16x9">
+                  <div class="is-xlarge-1x1">
+                    <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none">
+                      <path d="M4 12C8.41828 12 12 8.41828 12 4C12 8.41828 15.5817 12 20 12C15.5817 12 12 15.5817 12 20C12 15.5817 8.41828 12 4 12Z" stroke-width="1.5" stroke-linejoin="round" stroke="currentColor"></path>
+                    </svg>
+                  </div>
+                  <div id="w-node-_10b0e8b6-8a30-4d11-5b3b-3df793acc394-93acc34e" class="max-width_xsmall w-node-_7505625a-cf31-a0ce-c182-552355ca6195-cc67dbbe">
+                    <div class="paragraph_large text_all-caps">Histórias que inspiram confiança</div>
+                    <p class="paragraph_small text-color_secondary">Compartilho minha jornada autodidata para conectar, inspirar e mostrar como autenticidade transforma marcas e experiências digitais.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="section padding_none">
+      <div data-w-id="8da1959b-99e4-42dd-6e74-6e4f695ae559">
+        <div class="position_sticky mobile-relative z-index_2 events_none">
+          <div class="w-layout-grid grid_1-col min-height_100dvh">
+            <div id="w-node-e9392991-fbd2-5de2-0a45-53d41d4b27a3-1d4b27a0" class="container events_auto w-node-_8da1959b-99e4-42dd-6e74-6e4f695ae552-cc67dbbe">
+              <div class="w-layout-grid grid_2-col gap-medium">
+                <div id="w-node-e9392991-fbd2-5de2-0a45-53d41d4b27a5-1d4b27a0" class="ix_background-overlay-heading w-node-_8da1959b-99e4-42dd-6e74-6e4f695ae548-cc67dbbe">
+                  <h2>Experiências digitais que marcam</h2>
+                </div>
+                <div id="w-node-e9392991-fbd2-5de2-0a45-53d41d4b27a8-1d4b27a0" class="card card_body max-width_small w-node-_8da1959b-99e4-42dd-6e74-6e4f695ae550-cc67dbbe">
+                  <h3>Eleve sua marca com 3D imersivo</h3>
+                  <p class="paragraph_large">Descubra como design interativo, tecnologia de ponta e uma jornada visual envolvente podem transformar sua presença digital. Vamos criar experiências que conectam, inspiram e geram resultados reais para o seu negócio.</p>
+                  <div class="button-group">
+                    <a href="#" class="button is-secondary w-button">Explorar</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="ix_background-overlay-back">
+          <div class="w-layout-grid grid_1-col min-height_100dvh position_relative">
+            <div class="overlay_opacity-middle"></div>
+            <img width="1072" height="574" alt="image of event registration desk (for a art gallery)" src="https://cdn.prod.website-files.com/686ecf8608292f99cc67db9b/686ecfec57226841ee45ac96_a7eb41b5-76c2-40d8-b792-76c8dcf1d8b5.avif" loading="lazy" data-aisg-image-id="d7747c36-eb89-4046-af3c-bc1d558e8c31" class="image image_cover" />
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="section">
+      <div class="container">
+        <div class="w-layout-grid grid_2-col tablet-1-col gap-small is-y-top">
+          <a id="w-node-_249af64f-ec2d-2924-605c-ab46dc393889-dc393886" href="#" class="link-content-block w-node-adc24548-0ea8-ea84-266a-78c9e12ebb12-cc67dbbe w-inline-block">
+            <div class="ratio_2x3">
+              <img width="504" height="756" alt="image of company milestones in a timeline format (for a edtech)" src="https://cdn.prod.website-files.com/686ecf8608292f99cc67db9b/686ecfec1ad4ef4c10502828_ddd2760e-3631-4997-8761-042b7285dc2c.avif" loading="lazy" data-aisg-image-id="e9dfc731-b289-4c20-9fb0-6159588c9980" class="image_cover" />
+            </div>
+            <div class="padding-top_small">
+              <h3 class="heading_h2">Projetos que redefinem o digital</h3>
+              <p>Mergulhe em experiências 3D que unem design sofisticado, performance impecável e narrativas autênticas. Cada projeto é criado para encantar, engajar e entregar resultados reais para marcas visionárias. Descubra como a tecnologia pode transformar o seu negócio.</p>
+              <div class="button">Explorar</div>
+            </div>
+          </a>
+          <div class="w-layout-grid grid_2-col tablet-1-col gap-small is-y-top">
+            <a href="#" class="link-content-block w-inline-block">
+              <div id="w-node-_2e408468-472f-4e36-2eb0-546e99c7fa0f-dc393886" class="ratio_1x1-2 margin-bottom_xsmall w-node-adc24548-0ea8-ea84-266a-78c9e12ebb14-cc67dbbe">
+                <img width="236" height="236" alt="[interface] image of software interface (for a edtech)" src="https://cdn.prod.website-files.com/686ecf8608292f99cc67db9b/686ecfecfbbb502328ba8887_d39b40c0-8253-4c12-8163-030b3f13dc65.avif" loading="lazy" data-aisg-image-id="12087442-b322-4bb1-bd53-ce3100040d84" class="image_cover" />
+              </div>
+              <h3 class="heading_h4 margin-bottom_xxsmall">E-commerce 3D envolvente</h3>
+              <p>Revolucione a jornada de compra com ambientes interativos, navegação fluida e detalhes que elevam a experiência do usuário a outro nível.</p>
+            </a>
+            <a id="w-node-_60b3598a-36aa-a403-6af9-15a624ff9b0d-dc393886" href="#" class="link-content-block w-node-adc24548-0ea8-ea84-266a-78c9e12ebb20-cc67dbbe w-inline-block">
+              <div id="w-node-_60b3598a-36aa-a403-6af9-15a624ff9b0e-dc393886" class="ratio_2x3 margin-bottom_xsmall w-node-adc24548-0ea8-ea84-266a-78c9e12ebb1b-cc67dbbe">
+                <img width="236" height="354" alt="image of a customer service representative working in a digital interface environment [digital project]" src="https://cdn.prod.website-files.com/686ecf8608292f99cc67db9b/686ecfec31f03fa36e225d8d_0b7871ca-ef72-4998-8ebe-fdc66e5e06d8.avif" loading="lazy" data-aisg-image-id="559cc78a-6b83-490a-9493-c8a7b7543fa2" class="image_cover" />
+              </div>
+              <h3 class="heading_h4 margin-bottom_xxsmall">Arquitetura em 3D realista</h3>
+              <p>Apresente projetos de arquitetura e interiores com ambientes virtuais sofisticados, realismo impressionante e clareza visual.</p>
+            </a>
+            <a id="w-node-_95321cdf-d490-52c0-9c93-0b1834a0912e-dc393886" href="#" class="link-content-block w-node-adc24548-0ea8-ea84-266a-78c9e12ebb27-cc67dbbe w-inline-block">
+              <div id="w-node-_95321cdf-d490-52c0-9c93-0b1834a0912f-dc393886" class="ratio_2x3 margin-bottom_xsmall w-node-adc24548-0ea8-ea84-266a-78c9e12ebb22-cc67dbbe">
+                <img width="236" height="354" alt="image of office space (for a game development company)" src="https://cdn.prod.website-files.com/686ecf8608292f99cc67db9b/686ecfecd56af91f925102ac_f54bd10e-4303-4487-a712-c0442c330170.avif" loading="lazy" data-aisg-image-id="8c182346-d887-4d28-9e8a-2eae80921e4e" class="image_cover" />
+              </div>
+              <h3 class="heading_h4 margin-bottom_xxsmall">Branding com interação</h3>
+              <p>Destaque sua marca com experiências digitais imersivas, animações 3D e interfaces que comunicam inovação e exclusividade.</p>
+            </a>
+            <a href="#" class="link-content-block w-inline-block">
+              <div id="w-node-_249af64f-ec2d-2924-605c-ab46dc393897-dc393886" class="ratio_1x1-2 margin-bottom_xsmall w-node-adc24548-0ea8-ea84-266a-78c9e12ebb29-cc67dbbe">
+                <img width="236" height="236" alt="image of branding materials for a graphic design studio" src="https://cdn.prod.website-files.com/686ecf8608292f99cc67db9b/686ecfecfb4488c51bc6d9ca_2c87a0f7-4797-4956-b0f0-26cefd9f585c.avif" loading="lazy" data-aisg-image-id="90145732-2005-429e-84c7-f1f39cd7eea3" class="image_cover" />
+              </div>
+              <h3 class="heading_h4 margin-bottom_xxsmall">Produto digital em destaque</h3>
+              <p>Descubra como soluções digitais personalizadas impulsionam negócios, aumentam o engajamento e criam conexões memoráveis com o público.</p>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="section is-secondary">
+      <div class="container">
+        <div data-duration-out="100" data-current="Tab 1" data-easing="ease" data-duration-in="300" class="w-tabs">
+          <div class="tabs_content margin-bottom_small w-tab-content">
+            <div data-w-tab="Tab 1" class="w-tab-pane w--tab-active">
+              <div class="w-layout-grid grid_2-col mobile-l-1-col gap-medium">
+                <img width="496" height="372" alt="image of customer service" src="https://cdn.prod.website-files.com/686ecf8608292f99cc67db9b/686ecfec3aa50950e8694064_9467a4ae-5ec4-479d-a662-c5f17c7bfdba.avif" loading="lazy" data-aisg-image-id="cfc68581-1ff5-4cf7-9b1d-6dcafaf15c1f" class="image_cover ratio_4x3" />
+                <div>
+                  <p class="paragraph_xlarge margin-bottom_medium">“The 3D experience was next-level—clients were instantly captivated. Every animation felt purposeful, and the site’s elegance made our brand unforgettable. We saw immediate results and lasting buzz.”</p>
+                  <div class="margin-bottom_small">
+                    <div class="paragraph_xlarge margin-bottom_none">
+                      <strong>Casey Duarte</strong>
+                    </div>
+                    <div>Brand Experience Lead, Lumen Interactive</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div data-w-tab="Tab 2" class="w-tab-pane">
+              <div class="w-layout-grid grid_2-col mobile-l-1-col gap-medium">
+                <img width="" height="80" alt="image of content management strategy session" src="https://cdn.prod.website-files.com/686ecf8608292f99cc67db9b/686ecfec88864a1677ea8cf9_b4b14d3a-d750-4ce0-8d32-2bd5e8905106.avif" loading="lazy" data-aisg-image-id="1f85de0e-ba3b-49c2-9e0a-fef3ec38fc25" class="image_cover ratio_4x3" />
+                <div>
+                  <p class="paragraph_xlarge margin-bottom_medium">“Seamless from start to finish. The site’s speed and immersive design elevated our business—partners and clients can’t stop talking about it. It’s more than a portfolio; it’s a game-changer.”</p>
+                  <div class="margin-bottom_small">
+                    <div class="paragraph_xlarge margin-bottom_none">
+                      <strong>Morgan Silva</strong>
+                    </div>
+                    <div>UX Director, BluePeak Studio</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div data-w-tab="Tab 3" class="w-tab-pane">
+              <div class="w-layout-grid grid_2-col mobile-l-1-col gap-medium">
+                <img width="" height="80" alt="image of community engagement (for a food truck)" src="https://cdn.prod.website-files.com/686ecf8608292f99cc67db9b/686ecfec7c64e540bb260caa_c53ea92d-1457-4155-8d5d-20f8565b2fd2.avif" loading="lazy" data-aisg-image-id="a76b15f9-97e4-4ca5-b0af-17357dac77a3" class="image_cover ratio_4x3" />
+                <div>
+                  <p class="paragraph_xlarge margin-bottom_medium">“The interactive visuals and flawless flow set a new bar for digital presence. Our agency’s reputation soared after launch. If you want results, this is the way.”</p>
+                  <div class="margin-bottom_small">
+                    <div class="paragraph_xlarge margin-bottom_none">
+                      <strong>Riley Torres</strong>
+                    </div>
+                    <div>Founder, Nova Motion</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div data-w-tab="Tab 4" class="w-tab-pane">
+              <div class="w-layout-grid grid_2-col mobile-l-1-col gap-medium">
+                <img width="" height="80" alt="image of customer service representative (for a web design agency)" src="https://cdn.prod.website-files.com/686ecf8608292f99cc67db9b/686ecfecc3b82ebf6be3948e_6e02a7cd-b660-4553-9c70-58f154e094ea.avif" loading="lazy" data-aisg-image-id="5bb25de3-fa5f-4d33-9955-9361ff0b5cc4" class="image_cover ratio_4x3" />
+                <div>
+                  <p class="paragraph_xlarge margin-bottom_medium">“From concept to launch, the process was inspiring. The attention to detail and business focus made all the difference. Our clients instantly noticed the upgrade.”</p>
+                  <div class="margin-bottom_small">
+                    <div class="paragraph_xlarge margin-bottom_none">
+                      <strong>Jordan Avery</strong>
+                    </div>
+                    <div>Product Lead, Visionary Works</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="tabs_nav is-bottom w-tab-menu">
+            <a data-w-tab="Tab 1" class="tab_menu-button is-expand w-tab-link w--current">
+              <div class="flex_horizontal is-y-center gap-xsmall">
+                <div class="avatar">
+                  <img width="64" height="64" alt="&lt;subject&gt;[headshot] image of a customer (for a mobility and transportation)&lt;/subject&gt;" src="https://cdn.prod.website-files.com/686ecf8608292f99cc67db9b/686ecfec05eb4c040d45010b_a52549f8-5c62-46e1-9fca-89f73d04a8ed.avif" loading="lazy" data-aisg-image-id="aa7b112b-ab2e-487e-b3a7-31449a4bd54d" class="image_cover" />
+                </div>
+                <div>
+                  <div class="paragraph_small margin-bottom_none">
+                    <strong>Casey Duarte</strong>
+                  </div>
+                  <div class="paragraph_small margin-bottom_none">Brand Experience Lead</div>
+                </div>
+              </div>
+            </a>
+            <a data-w-tab="Tab 2" class="tab_menu-button is-expand w-tab-link">
+              <div class="flex_horizontal is-y-center gap-xsmall">
+                <div class="avatar">
+                  <img width="64" height="64" alt="[headshot] image of satisfied customer (for a nonprofit &amp; charity)" src="https://cdn.prod.website-files.com/686ecf8608292f99cc67db9b/686ecfecf316beda620988a8_71d6c815-a546-413c-b9ca-13bb39028394.avif" loading="lazy" data-aisg-image-id="bedb2770-010e-47d9-bee2-61cbb603a0a1" class="image_cover" />
+                </div>
+                <div>
+                  <div class="paragraph_small margin-bottom_none">
+                    <strong>Morgan Silva</strong>
+                  </div>
+                  <div class="paragraph_small margin-bottom_none">UX Director</div>
+                </div>
+              </div>
+            </a>
+            <a data-w-tab="Tab 3" class="tab_menu-button w-tab-link">
+              <div class="flex_horizontal is-y-center gap-xsmall">
+                <div class="avatar">
+                  <img width="64" height="64" alt="[headshot] image of customer (for a aviation service)" src="https://cdn.prod.website-files.com/686ecf8608292f99cc67db9b/686ecfec62f779f2ba06d5f0_a3062817-40c0-4e29-ad70-45d084b93d8d.avif" loading="lazy" data-aisg-image-id="68333748-59a2-44df-8ade-5ce401c99e88" class="image_cover" />
+                </div>
+                <div>
+                  <div class="paragraph_small margin-bottom_none">
+                    <strong>Riley Torres</strong>
+                  </div>
+                  <div class="paragraph_small margin-bottom_none">Founder</div>
+                </div>
+              </div>
+            </a>
+            <a data-w-tab="Tab 4" class="tab_menu-button w-tab-link">
+              <div class="flex_horizontal is-y-center gap-xsmall">
+                <div class="avatar">
+                  <img width="64" height="64" alt="[headshot] image of customer (for a mexican restaurant)" src="https://cdn.prod.website-files.com/686ecf8608292f99cc67db9b/686ecfec515056223fbf1611_3cda1eb1-e32c-46c5-8a6b-36aa71ab72dc.avif" loading="lazy" data-aisg-image-id="b12cb5b9-4d65-4da5-bbcb-88778bf45099" class="image_cover" />
+                </div>
+                <div>
+                  <div class="paragraph_small margin-bottom_none">
+                    <strong>Jordan Avery</strong>
+                  </div>
+                  <div class="paragraph_small margin-bottom_none">Product Lead</div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="section">
+      <div class="container">
+        <div class="header is-align-center">
+          <h2 class="heading_h2">Projects that redefine digital</h2>
+          <p class="subheading">Dive into immersive 3D showcases—each crafted to inspire, engage, and spark new possibilities for your business.</p>
+        </div>
+        <div class="w-layout-grid grid_2-col gap-small">
+          <div id="w-node-afbd10dc-bedc-0618-4db2-26887d9b2c18-7d9b2c10" class="ratio_1x1 w-node-_819c5c05-8b13-058f-d0c2-18b7bf55066f-cc67dbbe">
+            <img width="504" height="504" alt="event layouts and seating charts [digital project]" src="https://cdn.prod.website-files.com/686ecf8608292f99cc67db9b/686ecfec4c04afa848fe6cba_949fffa0-962c-447f-b204-b4e822f64593.avif" loading="lazy" data-aisg-image-id="3ef94d67-4c49-4d07-881b-272e9043b4ba" class="image_cover" />
+          </div>
+          <div id="w-node-afbd10dc-bedc-0618-4db2-26887d9b2c1a-7d9b2c10" class="ratio_3x2 w-node-_819c5c05-8b13-058f-d0c2-18b7bf550671-cc67dbbe">
+            <img width="504" height="336" alt="image of art exhibition space (for a art gallery)" src="https://cdn.prod.website-files.com/686ecf8608292f99cc67db9b/686ecfec81d415193b40c85c_6c57a894-4789-4403-bff3-caa4bdef4e7f.avif" loading="lazy" data-aisg-image-id="e3040f48-6569-4b87-9ff5-ac74cd9b182b" class="image_cover" />
+          </div>
+          <div id="w-node-afbd10dc-bedc-0618-4db2-26887d9b2c1c-7d9b2c10" class="ratio_1x1 w-node-_819c5c05-8b13-058f-d0c2-18b7bf550673-cc67dbbe">
+            <img width="504" height="504" alt="image of custom architectural solutions" src="https://cdn.prod.website-files.com/686ecf8608292f99cc67db9b/686ecfec66fcc20608ab2958_90a93d75-ae7e-4e07-a877-be7fb1dd0264.avif" loading="lazy" data-aisg-image-id="e22d1460-8bf5-4f0f-a3fa-39492771e5b4" class="image_cover" />
+          </div>
+          <div id="w-node-afbd10dc-bedc-0618-4db2-26887d9b2c1e-7d9b2c10" class="ratio_3x2 w-node-_819c5c05-8b13-058f-d0c2-18b7bf550675-cc67dbbe">
+            <img width="504" height="336" alt="image of website on a mobile device (for a web design agency)" src="https://cdn.prod.website-files.com/686ecf8608292f99cc67db9b/686ecfec5751d5195926f0d3_67e16926-ec66-4b17-a508-f128d073d59f.avif" loading="lazy" data-aisg-image-id="aa57ee2d-fe79-4011-925a-bc92cb0ddf30" class="image_cover" />
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="section is-secondary">
+      <div class="container">
+        <div class="header is-align-center">
+          <h2 class="heading_h1">Plans for ambitious creators</h2>
+        </div>
+        <ul role="list" class="grid_3-col tablet-1-col gap-xsmall w-list-unstyled">
+          <li class="card on-secondary">
+            <div class="card_body">
+              <div class="text-align_center">
+                <p class="eyebrow">Essentials</p>
+                <p class="heading_h2">$19 <span class="heading_h4">/mo</span>
+                </p>
+                <p class="margin-bottom_none">Showcase your skills and launch your interactive journey with confidence.</p>
+                <div class="w-layout-vflex button-group is-align-center">
+                  <a href="#" class="button w-inline-block">
+                    <div>Start free</div>
+                  </a>
+                </div>
+              </div>
+              <div class="divider margin-top_small"></div>
+              <ul role="list" aria-label="Plan features" class="margin-bottom_none margin-top_small w-list-unstyled">
+                <li class="flex_horizontal gap-xxsmall">
+                  <p class="eyebrow">Includes:</p>
+                </li>
+                <li class="flex_horizontal gap-xxsmall">
+                  <div class="is-xsmall-1x1 is-background">
+                    <svg width="100%" height="100%" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24">
+                      <path d="M9 16.17L4.83 12l-1.42 1.41L9 19L21 7l-1.41-1.41z" fill="currentColor"></path>
+                    </svg>
+                  </div>
+                  <p>1 featured 3D project</p>
+                </li>
+                <li class="flex_horizontal gap-xxsmall">
+                  <div class="is-xsmall-1x1 is-background">
+                    <svg width="100%" height="100%" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24">
+                      <path d="M9 16.17L4.83 12l-1.42 1.41L9 19L21 7l-1.41-1.41z" fill="currentColor"></path>
+                    </svg>
+                  </div>
+                  <p>Mobile-first responsive design</p>
+                </li>
+                <li class="flex_horizontal gap-xxsmall">
+                  <div class="is-xsmall-1x1 is-background">
+                    <svg width="100%" height="100%" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24">
+                      <path d="M9 16.17L4.83 12l-1.42 1.41L9 19L21 7l-1.41-1.41z" fill="currentColor"></path>
+                    </svg>
+                  </div>
+                  <p>Basic performance optimization</p>
+                </li>
+                <li class="flex_horizontal gap-xxsmall">
+                  <div class="is-xsmall-1x1 is-background">
+                    <svg width="100%" height="100%" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24">
+                      <path d="M9 16.17L4.83 12l-1.42 1.41L9 19L21 7l-1.41-1.41z" fill="currentColor"></path>
+                    </svg>
+                  </div>
+                  <p>Email support</p>
+                </li>
+              </ul>
+            </div>
+          </li>
+          <li class="card on-secondary">
+            <div class="card_body">
+              <div class="text-align_center">
+                <p class="eyebrow">Pro Studio</p>
+                <p class="heading_h2">$29 <span class="heading_h4">/mo</span>
+                </p>
+                <p class="margin-bottom_none">Level up with advanced 3D, premium design, and more ways to impress.</p>
+              </div>
+              <div class="w-layout-vflex button-group is-align-center">
+                <a href="#" class="button w-inline-block">
+                  <div>Upgrade</div>
+                </a>
+              </div>
+              <div class="divider margin-top_small"></div>
+              <ul role="list" aria-label="Plan features" class="margin-bottom_none margin-top_small w-list-unstyled">
+                <li class="flex_horizontal gap-xxsmall">
+                  <p class="eyebrow">Everything in Essentials, plus:</p>
+                </li>
+                <li class="flex_horizontal gap-xxsmall">
+                  <div class="is-xsmall-1x1 is-background">
+                    <svg width="100%" height="100%" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24">
+                      <path d="M9 16.17L4.83 12l-1.42 1.41L9 19L21 7l-1.41-1.41z" fill="currentColor"></path>
+                    </svg>
+                  </div>
+                  <p>Up to 3 interactive projects</p>
+                </li>
+                <li class="flex_horizontal gap-xxsmall">
+                  <div class="is-xsmall-1x1 is-background">
+                    <svg width="100%" height="100%" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24">
+                      <path d="M9 16.17L4.83 12l-1.42 1.41L9 19L21 7l-1.41-1.41z" fill="currentColor"></path>
+                    </svg>
+                  </div>
+                  <p>Custom animations &amp; transitions</p>
+                </li>
+                <li class="flex_horizontal gap-xxsmall">
+                  <div class="is-xsmall-1x1 is-background">
+                    <svg width="100%" height="100%" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24">
+                      <path d="M9 16.17L4.83 12l-1.42 1.41L9 19L21 7l-1.41-1.41z" fill="currentColor"></path>
+                    </svg>
+                  </div>
+                  <p>Priority support</p>
+                </li>
+                <li class="flex_horizontal gap-xxsmall">
+                  <div class="is-xsmall-1x1 is-background">
+                    <svg width="100%" height="100%" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24">
+                      <path d="M9 16.17L4.83 12l-1.42 1.41L9 19L21 7l-1.41-1.41z" fill="currentColor"></path>
+                    </svg>
+                  </div>
+                  <p>Portfolio analytics</p>
+                </li>
+              </ul>
+            </div>
+          </li>
+          <li class="card on-secondary">
+            <div class="card_body">
+              <div class="text-align_center">
+                <p class="eyebrow">Elite Experience</p>
+                <p class="heading_h2">$49 <span class="heading_h4">/mo</span>
+                </p>
+                <p class="margin-bottom_none">Stand out with immersive, bespoke 3D and exclusive support.</p>
+              </div>
+              <div class="w-layout-vflex button-group is-align-center">
+                <a href="#" class="button w-inline-block">
+                  <div>Go elite</div>
+                </a>
+              </div>
+              <div class="divider margin-top_small"></div>
+              <ul role="list" aria-label="Plan features" class="margin-bottom_none margin-top_small w-list-unstyled">
+                <li class="flex_horizontal gap-xxsmall">
+                  <p class="eyebrow">Everything in Pro Studio, plus:</p>
+                </li>
+                <li class="flex_horizontal gap-xxsmall">
+                  <div class="is-xsmall-1x1 is-background">
+                    <svg width="100%" height="100%" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24">
+                      <path d="M9 16.17L4.83 12l-1.42 1.41L9 19L21 7l-1.41-1.41z" fill="currentColor"></path>
+                    </svg>
+                  </div>
+                  <p>Unlimited 3D project slots</p>
+                </li>
+                <li class="flex_horizontal gap-xxsmall">
+                  <div class="is-xsmall-1x1 is-background">
+                    <svg width="100%" height="100%" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24">
+                      <path d="M9 16.17L4.83 12l-1.42 1.41L9 19L21 7l-1.41-1.41z" fill="currentColor"></path>
+                    </svg>
+                  </div>
+                  <p>White-glove onboarding</p>
+                </li>
+                <li class="flex_horizontal gap-xxsmall">
+                  <div class="is-xsmall-1x1 is-background">
+                    <svg width="100%" height="100%" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24">
+                      <path d="M9 16.17L4.83 12l-1.42 1.41L9 19L21 7l-1.41-1.41z" fill="currentColor"></path>
+                    </svg>
+                  </div>
+                  <p>Personalized design consulting</p>
+                </li>
+                <li class="flex_horizontal gap-xxsmall">
+                  <div class="is-xsmall-1x1 is-background">
+                    <svg width="100%" height="100%" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24">
+                      <path d="M9 16.17L4.83 12l-1.42 1.41L9 19L21 7l-1.41-1.41z" fill="currentColor"></path>
+                    </svg>
+                  </div>
+                  <p>Direct chat with expert</p>
+                </li>
+              </ul>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </section>
+    <section class="section">
+      <div class="container">
+        <div class="card">
+          <div class="padding_small">
+            <div class="w-layout-grid grid_3-col tablet-1-col gap-small">
+              <div id="w-node-_05a65c5a-bd43-3049-fde9-141ed4a4c7c5-d4a4c7c0" class="flex_horizontal is-y-center gap-xsmall is-wrap w-node-_8a4dbe14-2295-f89e-037a-1ad36f2c687c-cc67dbbe">
+                <div>
+                  <div class="heading_h2">Ready for your next bold move?</div>
+                  <p class="subheading margin-bottom_none">Let’s craft a 3D experience that sets your brand apart. If you want results that impress and inspire, this is your moment—let’s make it unforgettable together.</p>
+                </div>
+              </div>
+              <a id="w-node-_05a65c5a-bd43-3049-fde9-141ed4a4c7cd-d4a4c7c0" href="#" class="button w-node-_8a4dbe14-2295-f89e-037a-1ad36f2c687e-cc67dbbe w-button">View work</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="section is-secondary">
+      <div class="container">
+        <div class="header">
+          <h2 class="heading_h1">Let’s build something unforgettable</h2>
+        </div>
+        <ul role="list" class="grid_2-col gap-large w-list-unstyled">
+          <li class="flex_horizontal flex_vertical is-x-left is-space-between margin-bottom_none">
+            <div class="margin-bottom_medium">
+              <div class="ratio_3x2 margin-bottom_small">
+                <img width="488" height="325" alt="image of desk with a laptop and a plant for a bookstore" src="https://cdn.prod.website-files.com/686ecf8608292f99cc67db9b/686ecfec1ad4ef4c1050282d_6fee8638-7c53-4707-8644-c5dfbb4366bc.avif" loading="lazy" data-aisg-image-id="42e92ec8-2e71-48e9-a399-67771e5a91c8" class="image_cover" />
+              </div>
+              <h3 class="heading_h3">Start a project</h3>
+              <p class="margin-bottom_none">Ready to make your vision real? Share your ideas and let’s craft a digital experience that stands out.</p>
+            </div>
+            <a href="#" class="button w-button">Contact</a>
+          </li>
+          <li class="flex_horizontal flex_vertical is-x-left is-space-between margin-bottom_none">
+            <div class="margin-bottom_medium">
+              <div class="ratio_3x2 margin-bottom_small">
+                <img width="488" height="325" alt="image of interactive educational tool (for a edtech)" src="https://cdn.prod.website-files.com/686ecf8608292f99cc67db9b/686ecfec095b3294a4c97084_e70dbde8-804b-4dd6-a695-b173b7e5383c.avif" loading="lazy" data-aisg-image-id="d69379c0-67d3-4f19-ac23-0d81f8e58a39" class="image_cover" />
+              </div>
+              <h3 class="heading_h3">Need support?</h3>
+              <p class="margin-bottom_none">Visit the <a href="#" class="text-link is-secondary margin-horizontal_text-space">Help Center</a>or join our <a href="#" class="text-link is-secondary margin-horizontal_text-space">Community</a>for answers or to connect with creators. </p>
+            </div>
+            <a href="#" class="button w-button">Support</a>
+          </li>
+        </ul>
+      </div>
+    </section>
+    <footer class="footer is-inverse">
+      <div class="container">
+        <h2 class="heading_huge">Ready to elevate your vision? <br />
+        </h2>
+        <div class="flex_horizontal is-space-between tablet-vertical tablet-x-center gap-small margin-top_medium">
+          <a href="#" class="footer_link on-inverse w-inline-block">
+            <div class="paragraph_xlarge">
+              <span class="__cf_email__" data-cfemail="dfb7bab3b3b09fafb0adabb9b0b3b6b0f1bcb0b2">[email&#160;protected]</span>
+            </div>
+          </a>
+          <ul role="list" class="flex_horizontal is-y-center is-x-center gap-xsmall is-wrap margin-bottom_none padding_none w-list-unstyled">
+            <li class="margin-bottom_none">
+              <a href="#" class="footer_link on-inverse w-inline-block">
+                <div>Dribbble</div>
+              </a>
+            </li>
+            <li class="margin-bottom_none">
+              <a href="#" class="footer_link on-inverse w-inline-block">
+                <div>Instagram</div>
+              </a>
+            </li>
+            <li class="margin-bottom_none">
+              <a href="#" class="footer_link on-inverse w-inline-block">
+                <div>LinkedIn</div>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+    <</script>
+  </body>
+</html>
+
